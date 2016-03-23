@@ -78,8 +78,7 @@ The script for this project is in file run_analysis.R. The script performs the f
 - Reads in the following files into data.frames with similar names:
     -   features (i.e. variable names) and activity.labels (names for activity numbers)
     -   X.test (observations), y.test (activity numbers) and subject.test (subject numbers)
-    -   same files for the training dataset.
-    -   
+    -   X.train (observations), y.train (activity numbers) and subject.train (subject numbers) 
 -  Joins the 3 test and training data sets (observations, subjects and activities)
 -  Gets the (79) column indeces and names for the variables whose names contain mean() og std() 
 -  Extracts those columns from the combined data set.

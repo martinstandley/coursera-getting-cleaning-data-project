@@ -7,8 +7,8 @@ See https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning
 
 ## Files
 
-- Readme.MD - this file
-- Codebook.MD - description of the input and output data set and production process
+- README.md - this file
+- Codebook.md - description of the input and output data set and production process
 - run_analysis.R - script in R that carries out the required operations on the input data.
 - means-by-group.txt - output data set.
 

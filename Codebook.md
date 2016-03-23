@@ -1,7 +1,7 @@
 ﻿
 # Introduction
 
-This data was develloped as a student assignment terminating the Coursera Getting and Cleaning Data Course.
+This data was developed as a student assignment terminating the Coursera Getting and Cleaning Data Course.
 
 See https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project for more information.
 
@@ -93,18 +93,19 @@ The script for this project is in file run_analysis.R. The script performs the f
 - Data set: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. A Public Domain Dataset for Human Activity Recognition Using Smartphones. 21th European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, ESANN 2013. Bruges, Belgium 24-26 April 2013.
 - Data repository: Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science
 
-## Appendix: Readme.txt file for the input data
-==================================================================
+-----------------------------------------------------------------------------------------------------
+# Appendix: (Reformatted) Readme.txt file for the input data
+
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
-==================================================================
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
-==================================================================
+
 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data. 
 

@@ -36,4 +36,4 @@ groupedobs <- group_by(obs.named.activity, Activity_name, Subject)
 # and then find the mean for each column
 means.by.group <- summarize_each(groupedobs, funs(mean))
 
-write.table(means.by.group, "means-by-group.txt", row.name = FALSE)
+write.table(means.by.group, "means-by-group.txt", row.names = FALSE)
